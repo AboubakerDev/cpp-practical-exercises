@@ -1,4 +1,4 @@
-# Algorithms Problem Solving – Level 02
+# Algorithms Problem Solving – Level 02(Course 5 From Programming Advice)
 
 This folder contains **C++ exercises** for improving algorithmic problem-solving skills. Exercises cover **arrays, numbers, patterns, randomization, encryption/decryption, and small projects**. Suitable for **beginners and intermediate programmers**.
 
@@ -102,3 +102,4 @@ This folder contains **C++ exercises** for improving algorithmic problem-solving
 - All programs are written in **C++**.  
 - Exercises focus on **arrays, numbers, loops, conditionals, and basic functions**.  
 - Useful for **interview preparation and competitive programming practice**.
+
